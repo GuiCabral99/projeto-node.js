@@ -9,5 +9,5 @@ class Person {
 }
 
 module.exports = {
-    Person,
+    Person
 }

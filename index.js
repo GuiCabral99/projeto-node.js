@@ -1,5 +1,4 @@
 const {Person} = require('./person')
+const person = new Person("Julia");
 
-const person = new Person('Julia')
-
-console.log(person.sayMyName())
+require('./modules/path')
