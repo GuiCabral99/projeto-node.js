@@ -1,5 +1,5 @@
 const {Person} = require('./person')
 
-const person = new Person('Guilherme')
+const person = new Person('Julia')
 
 console.log(person.sayMyName())
